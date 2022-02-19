@@ -178,28 +178,6 @@ button.c {
     border-radius: 2px;
 	margin-top: 1.3vw;
 	white-space: nowrap;
-	animation: c 2s infinite;
-}
-
-@keyframes c {
-  0% {
-	background: #EB5757;
-	border: 1px solid #EB5757;
-    transform: scale(1,1);
-	color: white; 
-  }
-    50% {
-	background: #72afe0;
-	border: 1px solid #72afe0;
-    transform: scale(10, 5);
-	color: #e0e0e0;
-  }
-  100% {
-	background: #EB5757;
-	border: 1px solid #EB5757;
-    transform: scale(1,1);
-	color: white; 
-  }
 }
 
 .c_2 {
